@@ -5,5 +5,6 @@
 <summary><b>Weeks 1–4: Foundations & Intermediate (Days 1-30)</b></summary>
 
 | Day | Project | Core Tech / Concepts |
+
 | **$\color{pink}{\text{01}}$** | Band Name Generator | Strings, Inputs, Variables |
 
