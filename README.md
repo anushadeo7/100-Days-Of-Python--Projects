@@ -6,5 +6,5 @@
 
 | Day | Project | Core Tech / Concepts |
 
-| **$\color{pink}{\text{01}}$** | Band Name Generator | Strings, Inputs, Variables |
+| **$\color{pink}{\text{01}}$** | Band Name Generator (./Day-01-Band-Name-Generator) | Strings, Inputs, Variables |
 
