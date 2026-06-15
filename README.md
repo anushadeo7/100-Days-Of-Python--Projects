@@ -7,6 +7,7 @@
 | Day | Project | Core Tech / Concepts |
 
 | **$\color{pink}{\text{01}}$** | [Band Name Generator](./Day-01-Band-Name-Generator.py) | Strings, Inputs, Variables |
+
 | **$\color{pink}{\text{02}}$** | [Tip Calculator](./Day-02-Tip-Calculator.py) | Data Types, Basic Math, F-Strings |
 
 
