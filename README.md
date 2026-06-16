@@ -9,4 +9,5 @@
 | **$\color{pink}{\text{01}}$** | [Band Name Generator](./Day-01-Band-Name-Generator.py) | Strings, Inputs, Variables |
 
 | **$\color{pink}{\text{02}}$** | [Tip Calculator](./Day-02-Tip-Calculator.py) | Data Types, Basic Math, F-Strings |
+
 | **03** | [Treasure Island](./Day-03-Treasure-Island) | Conditional Logic, Nested `if/else` |
