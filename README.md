@@ -11,3 +11,6 @@
 | **$\color{pink}{\text{02}}$** | [Tip Calculator](./Day-02-Tip-Calculator.py) | Data Types, Basic Math, F-Strings |
 
 | **$\color{pink}{\text{03}}$** | [Treasure Island](./Day-03-Treasure-Island.py) | Conditional Logic, Nested `if/else` |
+
+| **$\color{pink}{\text{04}}$** | [Rock Paper Scissors](./Day-04-Rock-Papers-Scissors.py) | Randomization, Python Lists |
+ 
